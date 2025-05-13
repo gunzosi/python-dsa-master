@@ -1,2 +1,2 @@
-# python-dsa-master
-DSA Fundamental , written by PYTHON
+# DSA written by PYTHON Programming
+Created by : Dang "Ocean" Dai Duong
